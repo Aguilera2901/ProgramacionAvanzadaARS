@@ -29,6 +29,7 @@ public class Main1{
         cocodrilo.setEdad(5);
         uno.setTipo("Basica");
         pikachu.setColor("Amerillo");
+        pikachu.setColor("Naranja");
         carro.setAnio(2020);
 
 
